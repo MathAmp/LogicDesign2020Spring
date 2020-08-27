@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/ise_projects/VendingMachine/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/ise_projects/VendingMachine/xst"
+elaborate
+-ifn .prj
+-ifmt mixed

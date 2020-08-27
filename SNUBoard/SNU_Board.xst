@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/ise_projects/SNUBoard/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/ise_projects/SNUBoard/xst"
+elaborate
+-ifn SNU_Board.prj
+-ifmt mixed

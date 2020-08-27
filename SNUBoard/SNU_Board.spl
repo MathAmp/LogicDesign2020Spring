@@ -1,0 +1,24 @@
+[Inputs]
+SW1
+SW2
+SW3
+SW4
+SW5
+SW6
+[Outputs]
+D1
+D2
+D3
+D4
+D5
+D6
+=J1[6:0]=
+=J2[6:0]=
+=J3[6:0]=
+=J4[6:0]=
+=J5[6:0]=
+=J6[6:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel SNU_Board
+

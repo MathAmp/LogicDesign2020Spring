@@ -1,0 +1,5 @@
+verilog work "HalfAdder.v"
+verilog work "FullAdder.v"
+verilog work "SNU_Board.v"
+verilog work "SNU_Board_Simulate.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

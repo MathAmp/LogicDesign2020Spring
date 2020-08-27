@@ -1,0 +1,81 @@
+ISim log file
+Running: /home/ise/ise_projects/SNUBoard/SNU_Board_Simulate_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/ise_projects/SNUBoard/SNU_Board_Simulate_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Writing input of 0
+Writing input of 1
+Writing input of 2
+Writing input of 3
+Writing input of 4
+Writing input of 5
+Writing input of 6
+Writing input of 7
+Writing input of 8
+Writing input of 9
+Writing input of 10
+Writing input of 11
+Writing input of 12
+Writing input of 13
+Writing input of 14
+Writing input of 15
+Writing input of 16
+Writing input of 17
+Writing input of 18
+Writing input of 19
+Writing input of 20
+Writing input of 21
+Writing input of 22
+Writing input of 23
+Writing input of 24
+Writing input of 25
+Writing input of 26
+Writing input of 27
+Writing input of 28
+Writing input of 29
+Writing input of 30
+Writing input of 31
+Writing input of 32
+Writing input of 33
+Writing input of 34
+Writing input of 35
+Writing input of 36
+Writing input of 37
+Writing input of 38
+Writing input of 39
+Writing input of 40
+Writing input of 41
+Writing input of 42
+Writing input of 43
+Writing input of 44
+Writing input of 45
+Writing input of 46
+Writing input of 47
+Writing input of 48
+Writing input of 49
+Writing input of 50
+Writing input of 51
+Writing input of 52
+Writing input of 53
+Writing input of 54
+Writing input of 55
+Writing input of 56
+Writing input of 57
+Writing input of 58
+Writing input of 59
+Writing input of 60
+Writing input of 61
+Writing input of 62
+Writing input of 63
+Writing Done.
+# exit 0

@@ -1,0 +1,80 @@
+ISim log file
+Running: /home/ise/ise_projects/StopWatch/stopwatch_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/ise_projects/StopWatch/stopwatch_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Initialization ...
+Finished circuit initialization process.
+Test Starts
+Test 1 - Stopwatch output before finishing
+-------------
+  0 passed
+# run all
+  1 passed
+  2 passed
+  3 passed
+  4 passed
+  5 passed
+  6 passed
+  7 passed
+  8 passed
+  9 passed
+ 10 passed
+ 11 passed
+ 12 passed
+ 13 passed
+ 14 passed
+ 15 passed
+ 16 passed
+ 17 passed
+ 18 passed
+ 19 passed
+ 20 passed
+ 21 passed
+ 22 passed
+ 23 passed
+ 24 passed
+ 25 passed
+ 26 passed
+ 27 passed
+ 28 passed
+ 29 passed
+ 30 passed
+ 31 passed
+ 32 passed
+ 33 passed
+ 34 passed
+ 35 passed
+ 36 passed
+ 37 passed
+ 38 passed
+ 39 passed
+ 40 passed
+ 41 passed
+ 42 passed
+ 43 passed
+ 44 passed
+ 45 passed
+ 46 passed
+ 47 passed
+ 48 passed
+ 49 passed
+Test 2 - Stopwatch output when select is given low
+-------------
+60 passed
+Test 3 - Stopwatch output when select is given high
+-------------
+73 passed
+Test Ends
+Passed all cases!
+Stopped at time : 100500 ns : File "/home/ise/ise_projects/stopwatch_tb.v" Line 103
+# exit 0

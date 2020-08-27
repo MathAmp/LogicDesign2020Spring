@@ -1,0 +1,28 @@
+Command line:
+   SNU_Board_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  34683
+
+Wed Apr 29 11:20:48 2020
+
+
+ Elaboration Time: 0.05 sec
+
+ Current Memory Usage: 198.574 Meg
+
+ Total Signals          : 64
+ Total Nets             : 74
+ Total Signal Drivers   : 15
+ Total Blocks           : 8
+ Total Primitive Blocks : 5
+ Total Processes        : 16
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 154
+
+ Total Simulation Time: 0.07 sec
+
+ Current Memory Usage: 276.173 Meg
+
+Wed Apr 29 11:20:50 2020
+

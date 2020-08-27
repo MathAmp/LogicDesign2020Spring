@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/ise_projects/Homework4/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/ise_projects/Homework4/xst"
+elaborate
+-ifn four_to_one.prj
+-ifmt mixed

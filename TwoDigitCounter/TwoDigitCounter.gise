@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="TwoDigitCounter.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="_7seg_to_dec_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="freq_div_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="s_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="total_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="total_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="two_digit_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="two_digit_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="two_digit_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="two_digit_tb_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1589976973" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1589976973">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589979717" xil_pn:in_ck="-7277421463732658277" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1589979717">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SevenSeg.v"/>
+      <outfile xil_pn:name="freq_div.v"/>
+      <outfile xil_pn:name="freq_div_tb.v"/>
+      <outfile xil_pn:name="s_tb.v"/>
+      <outfile xil_pn:name="total_tb.v"/>
+      <outfile xil_pn:name="two_digit.v"/>
+      <outfile xil_pn:name="two_digit_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1589979251" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="1662518661335379158" xil_pn:start_ts="1589979251">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589979251" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5454635972865275166" xil_pn:start_ts="1589979251">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589976973" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-3655997145821126782" xil_pn:start_ts="1589976973">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589979717" xil_pn:in_ck="-7277421463732658277" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1589979717">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SevenSeg.v"/>
+      <outfile xil_pn:name="freq_div.v"/>
+      <outfile xil_pn:name="freq_div_tb.v"/>
+      <outfile xil_pn:name="s_tb.v"/>
+      <outfile xil_pn:name="total_tb.v"/>
+      <outfile xil_pn:name="two_digit.v"/>
+      <outfile xil_pn:name="two_digit_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1589979722" xil_pn:in_ck="-7277421463732658277" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="8367599743115646921" xil_pn:start_ts="1589979717">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="two_digit_tb_beh.prj"/>
+      <outfile xil_pn:name="two_digit_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1589979722" xil_pn:in_ck="-2863646258932848110" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-4395200713485566804" xil_pn:start_ts="1589979722">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="two_digit_tb_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

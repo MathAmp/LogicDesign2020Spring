@@ -1,0 +1,5 @@
+verilog work "SevenSeg.v"
+verilog work "freq_div.v"
+verilog work "two_digit.v"
+verilog work "two_digit_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

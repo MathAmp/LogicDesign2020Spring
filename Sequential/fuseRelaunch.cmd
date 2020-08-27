@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/ise_projects/Sequential/mslatch_tb_isim_beh.exe" -prj "/home/ise/ise_projects/Sequential/mslatch_tb_beh.prj" "work.mslatch_tb" "work.glbl" 

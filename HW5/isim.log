@@ -1,0 +1,37 @@
+ISim log file
+Running: /home/ise/ise_projects/HW5/test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/ise_projects/HW5/test_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Writing output:out/seg_out_00000 ns.bmp
+Writing Done.
+Finished circuit initialization process.
+Writing output:out/seg_out_00030 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00040 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00050 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00060 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00070 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00080 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00090 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00100 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00110 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00120 ns.bmp
+Writing Done.

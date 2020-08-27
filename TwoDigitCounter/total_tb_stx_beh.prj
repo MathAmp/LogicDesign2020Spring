@@ -1,0 +1,5 @@
+verilog isim_temp "SevenSeg.v"
+verilog isim_temp "freq_div.v"
+verilog isim_temp "two_digit.v"
+verilog isim_temp "total_tb.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

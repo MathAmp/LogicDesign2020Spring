@@ -1,0 +1,13 @@
+[Inputs]
+CLRb
+CLK
+SDL
+SDR
+=S[1:0]=
+=D[7:0]=
+[Outputs]
+=Q[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel shift_reg_8b
+

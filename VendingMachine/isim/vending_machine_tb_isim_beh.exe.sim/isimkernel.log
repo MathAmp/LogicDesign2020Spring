@@ -1,0 +1,28 @@
+Command line:
+   vending_machine_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  58942
+
+Wed May 27 11:31:01 2020
+
+
+ Elaboration Time: 0.07 sec
+
+ Current Memory Usage: 198.599 Meg
+
+ Total Signals          : 21
+ Total Nets             : 22
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 40
+ Total Scalar Nets and Variables : 303
+
+ Total Simulation Time: 0.08 sec
+
+ Current Memory Usage: 276.197 Meg
+
+Wed May 27 11:33:05 2020
+

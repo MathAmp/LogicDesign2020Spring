@@ -1,0 +1,29 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/ise/ise_projects/MidtermPrepare/prac_tb_isim_beh.exe -prj /home/ise/ise_projects/MidtermPrepare/prac_tb_beh.prj work.prac_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/ise_projects/MidtermPrepare/prac.v" into library work
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 42: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 43: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 50: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 52: Concatenation with unsized literal; will interpret as 32 bits
+Analyzing Verilog file "/home/ise/ise_projects/MidtermPrepare/prac_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 42: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 43: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 50: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/home/ise/ise_projects/MidtermPrepare/prac.v" Line 52: Concatenation with unsized literal; will interpret as 32 bits
+Completed static elaboration
+Fuse Memory Usage: 94940 KB
+Fuse CPU Usage: 1910 ms
+Compiling module prac
+Compiling module prac_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 3 Verilog Units
+Built simulation executable /home/ise/ise_projects/MidtermPrepare/prac_tb_isim_beh.exe
+Fuse Memory Usage: 98088 KB
+Fuse CPU Usage: 1950 ms
+GCC CPU Usage: 440 ms

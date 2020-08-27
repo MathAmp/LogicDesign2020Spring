@@ -1,0 +1,48 @@
+ISim log file
+Running: /home/ise/ise_projects/BCDtoDec/seg_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/ise_projects/BCDtoDec/seg_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Writing output:out/seg_out_00000 ns.bmp
+Writing Done.
+Finished circuit initialization process.
+Writing output:out/seg_out_00150 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00200 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00250 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00300 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00350 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00400 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00450 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00500 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00550 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00600 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00650 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00700 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00750 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00800 ns.bmp
+Writing Done.
+Writing output:out/seg_out_00850 ns.bmp
+Writing Done.
+# exit 0

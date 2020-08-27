@@ -1,0 +1,31 @@
+ISim log file
+Running: /home/ise/ise_projects/Final/cpu_sim_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/ise_projects/Final/cpu_sim_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Test level 0 finished. Score: (        32/32)
+# run 3000ns
+Test level 1 finished. Score: (        32/32)
+Test level 2 finished. Score: (        32/32)
+Data mismatch at mem[ 1].   3 (Testbench) !=   2 (Your result)
+Data mismatch at mem[ 3].   4 (Testbench) !=   3 (Your result)
+Data mismatch at mem[ 5].   4 (Testbench) !=   6 (Your result)
+Data mismatch at mem[ 6].   8 (Testbench) !=   7 (Your result)
+Data mismatch at mem[ 7].   4 (Testbench) !=   8 (Your result)
+Data mismatch at mem[10].  12 (Testbench) !=  17 (Your result)
+Data mismatch at mem[11].  10 (Testbench) !=  18 (Your result)
+Data mismatch at mem[20].  20 (Testbench) !=  33 (Your result)
+Data mismatch at mem[29].  52 (Testbench) !=  34 (Your result)
+Test level 3 finished. Score: (        23/32)
+Stopped at time : 3355 ns : File "/home/ise/ise_projects/tb.v" Line 414
+# exit 0

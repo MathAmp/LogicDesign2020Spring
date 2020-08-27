@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/ise_projects/SNUBoard/SNU_Board_Simulate_isim_beh.exe" -prj "/home/ise/ise_projects/SNUBoard/SNU_Board_Simulate_beh.prj" "work.SNU_Board_Simulate" "work.glbl" 
